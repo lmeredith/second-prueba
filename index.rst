@@ -5,7 +5,7 @@ Welcome to XML Travelgate API Docs's documentation!
 **Contents:**
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 2
   :numbered:
 
   intro<./folder/index.rst>
