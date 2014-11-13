@@ -8,4 +8,4 @@ Welcome to XML Travelgate API Docs's documentation!
   :maxdepth: 3
   :numbered:
 
-  intro<./folder/intro.rst>
+  intro<./folder/index.rst>
